@@ -1,0 +1,23 @@
+
+
+.header-container1 {
+    background-color: rgb(255, 253, 253);
+    color: rgb(17, 17, 16);
+    display: flex;
+    margin-left: 400px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    font-size: small;
+    font-family: Roboto, sans-serif;
+    }
+
+.text {
+    margin: 2em;
+}
+
+.header-container2 {
+        background-color: rgb(148, 7, 7);
+        color: seashell;
+        display: flex;
+        margin-left: 20px;
+        }

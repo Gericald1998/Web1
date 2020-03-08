@@ -1,0 +1,15 @@
+.header-container {
+    background: url("../assets/images/Pend Bahasa Inggris.jpg")
+    no-repeat fixed center;
+    background-size: cover;
+}
+
+.visi-container {
+    margin-left: 50px;
+    margin-right: 600px;
+}
+
+.header-container {
+    height: 350px;
+    /* width: 100%; */
+}
