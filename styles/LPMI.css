@@ -17,6 +17,9 @@
 .text {
     margin: 2em;
 }
+.text-cover {
+    padding: 2em;
+}
 .header-container1 {
     background-color: rgb(255, 251, 251);
     color: rgb(17, 17, 16);
@@ -24,20 +27,26 @@
     margin-left: 200px;
     margin-top: 20px;
     margin-bottom: 5px;
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-size: 100%;
     }
 .header-container2 {
         background-color: rgb(133, 16, 16);
-        color: rgb(247, 240, 240);
+        padding-bottom: 15em;
         display: flex;
-        margin-left: 600px;
         }
+.text-cover {
+    color: white;
+    margin-left: 200px;
+    margin-right: 0px;
+    font-family: Roboto, sans-serif;
+    font-size: small;
+}
 .header-daftar {
         background-color: rgb(214, 6, 6);
         font-family: Roboto, sans-serif;
         color: rgb(247, 240, 240);
-        margin-top: 40px;
+        margin-top: 50px;
         margin-bottom: 60px;
         margin-left: 30px;
         margin-right: 30px;
